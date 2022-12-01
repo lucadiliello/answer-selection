@@ -6,7 +6,7 @@ New datasets for Answer Sentence Selection.
 Common datasets for Answer Sentence Selection (AS2) like WikiQA and TREC-QA are very small (a few thousand QA pairs) and are not challenging anymore. Some systems achiveve MAP > 92% on both datasets.
 
 A recent large-scale dataset ([ASNQ](https://github.com/alexa/wqa_tanda)) shows that more data are needed to reach SOTA performance.
-Inspired by how ASNQ was build starting from [Google's NQ](https://ai.google.com/research/NaturalQuestions/), we release 5 large-scale dataset for AS2 derived from [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/), [TriviaQA](https://nlp.cs.washington.edu/triviaqa/), [SearchQA](https://arxiv.org/abs/1704.05179) and [HotpotQA](https://hotpotqa.github.io).
+Inspired by how ASNQ was built starting from [Google's NQ](https://ai.google.com/research/NaturalQuestions/), we release 4 large-scale dataset for AS2 derived from [NewsQA](https://www.microsoft.com/en-us/research/project/newsqa-dataset/), [TriviaQA](https://nlp.cs.washington.edu/triviaqa/), [SearchQA](https://arxiv.org/abs/1704.05179) and [HotpotQA](https://hotpotqa.github.io).
 
 We named those new dataset `NewsAS2`, `TriviaAS2`, `SearchAS2` and `HotpotAS2`.
 
